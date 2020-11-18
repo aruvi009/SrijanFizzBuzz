@@ -15,10 +15,8 @@
 
 - [About](#about)
 - [Getting Started](#getting_started)
-- [Deployment](#deployment)
 - [Usage](#usage)
 - [Built Using](#built_using)
-- [TODO](../TODO.md)
 - [Contributing](../CONTRIBUTING.md)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
@@ -62,7 +60,7 @@ Give an example
 
 ## 🎈 Usage <a name="usage"></a>
 
-Start the project along with mock json-server db : 
+Start the project along with nodejs/express server : 
 
 ```
 npm run dev
@@ -74,7 +72,7 @@ Start the project only with webpack :
 npm run webpack
 ```
 
-Run API tests using Mocha
+Run API tests using Mocha after running "npm run dev"
 
 ```
 npm run test
