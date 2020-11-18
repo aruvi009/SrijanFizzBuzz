@@ -43,6 +43,7 @@ Install all node modules in package.json
 npm install
 ```
 
+<!--
  
 ## 🔧 Running the tests <a name = "tests"></a>
 
@@ -51,7 +52,6 @@ Explain how to run the API tests.
 ```
 npm run test
 ```
-<!--
 ### And coding style tests
 
 Explain what these tests test and why
@@ -74,16 +74,11 @@ Start the project only with webpack :
 npm run webpack
 ```
 
-## 🚀 Deployment <a name = "deployment"></a>
-
-
-Build the project using : 
+Run API tests using Mocha
 
 ```
-npm run build
+npm run test
 ```
-
-A 'build' folder will be created in the root and should be used for deployment purposes.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
