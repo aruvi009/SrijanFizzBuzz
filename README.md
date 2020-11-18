@@ -3,20 +3,11 @@
  <img width=200px height=200px src="public/favicon.ico" alt="Project logo"></a>
 </p>
 
-<h3 align="center">React-BasePack</h3>
-
-<div align="center">
-
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/aruvi009/React-BasePack.svg)](https://github.com/aruvi009/React-BasePack/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/aruvi009/React-BasePack.svg)](https://github.com/aruvi009/React-BasePack/pulls)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
-
-</div>
+<h3 align="center">React FizzBuzz</h3>
 
 ---
 
-<p align="center"> React Custom Seed Project.
+<p align="center"> React FizzBuzz for Srijan.
     <br> 
 </p>
 
@@ -34,7 +25,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
-This is a custom project extended from the create-react-app generated environment. To suit my development style, I have added some custom node modules and folder structure. 
+This is a custom project for Srijan coding assignment. 
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
@@ -52,19 +43,15 @@ Install all node modules in package.json
 npm install
 ```
 
-<!-- 
+ 
 ## 🔧 Running the tests <a name = "tests"></a>
 
-Explain how to run the automated tests for this system.
-
-### Break down into end to end tests
-
-Explain what these tests test and why
+Explain how to run the API tests.
 
 ```
-Give an example
+npm run test
 ```
-
+<!--
 ### And coding style tests
 
 Explain what these tests test and why
